@@ -4,3 +4,8 @@
 
 
 ![image of laptop](https://www.pexels.com/photo/silver-laptop-and-white-cup-on-table-7974)
+
+```python
+print("Hello word")
+abd = 23
+```
