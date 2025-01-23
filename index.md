@@ -9,3 +9,6 @@
 print("Hello word")
 abd = 23
 ```
+- [ ] open git hub
+- [ ] open student tab
+- [ ] start learning
